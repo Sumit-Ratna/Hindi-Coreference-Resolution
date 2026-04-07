@@ -1,0 +1,3381 @@
+[
+  {
+    "sentence_id": 1,
+    "tokens": [
+      {
+        "word": "बात",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गलत",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "हो",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "तो",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गुस्सा",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "सेलेब्रिटिज",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "भी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "आना",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "लाजमी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "है",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 2,
+    "tokens": [
+      {
+        "word": "बृहस्पतिवार",
+        "mention_spans": [
+          [
+            "i1",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i1"
+        ],
+        "relations": []
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पणज़ी",
+        "mention_spans": [
+          [
+            "i2",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i2"
+        ],
+        "relations": []
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "शुरू",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "हुए",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "३६वें",
+        "mention_spans": [
+          [
+            "i3",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अंतर्राष्ट्रीय",
+        "mention_spans": [
+          [
+            "i3",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i3",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "महोत्सव",
+        "mention_spans": [
+          [
+            "i3",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i3"
+        ],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "रंग",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "भंग",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "उस",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "समय",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पड़ा",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "जब",
+        "mention_spans": [
+          [
+            "i4",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i4"
+        ],
+        "relations": []
+      },
+      {
+        "word": "वहां",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ],
+          [
+            "i6",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i6"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i3"
+          }
+        ]
+      },
+      {
+        "word": "पर",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "तैनात",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "सुरक्षाकर्मियों",
+        "mention_spans": [
+          [
+            "i7",
+            1
+          ],
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [
+          "i7"
+        ],
+        "relations": []
+      },
+      {
+        "word": "ने",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बॉलीवुड",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "की",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अभिनेत्री",
+        "mention_spans": [
+          [
+            "i8",
+            1
+          ],
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [
+          "i8"
+        ],
+        "relations": []
+      },
+      {
+        "word": "बिपाशा",
+        "mention_spans": [
+          [
+            "i9",
+            0
+          ],
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बसु",
+        "mention_spans": [
+          [
+            "i9",
+            1
+          ],
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [
+          "i9"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-NounComplement",
+            "target": "i8"
+          }
+        ]
+      },
+      {
+        "word": "के",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "साथ",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "दुव्यर्वहार",
+        "mention_spans": [
+          [
+            "i5",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "किया",
+        "mention_spans": [
+          [
+            "i5",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i5"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-RT",
+            "target": "i4"
+          }
+        ]
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 3,
+    "tokens": [
+      {
+        "word": "सुरक्षाकर्मियों",
+        "mention_spans": [
+          [
+            "i10",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i10"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i7"
+          }
+        ]
+      },
+      {
+        "word": "द्वारा",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बदतमीजी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "चलते",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बिपाशा",
+        "mention_spans": [
+          [
+            "i11",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i11"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i9"
+          }
+        ]
+      },
+      {
+        "word": "का",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गुस्सा",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "सातवें",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "आसमान",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "जा",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पहुंचा",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "और",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पहले",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "तो",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "उन्होंने",
+        "mention_spans": [
+          [
+            "i12",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i12"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i11"
+          }
+        ]
+      },
+      {
+        "word": "वहीं",
+        "mention_spans": [
+          [
+            "i13",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i13"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i6"
+          }
+        ]
+      },
+      {
+        "word": "पर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "इन",
+        "mention_spans": [
+          [
+            "i14",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गार्ड्स",
+        "mention_spans": [
+          [
+            "i14",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i14"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-InferedRelation",
+            "target": "i10"
+          }
+        ]
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "खैर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "खबर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "ली",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "लेकिन",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बाद",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गुस्से",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "चलते",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बिपाशा",
+        "mention_spans": [
+          [
+            "i15",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i15"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i12"
+          }
+        ]
+      },
+      {
+        "word": "महोत्सव",
+        "mention_spans": [
+          [
+            "i16",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i16"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i13"
+          }
+        ]
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बिना",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "भाग",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "लिए",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "वापस",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "लौट",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गई",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 4,
+    "tokens": [
+      {
+        "word": "NULL",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गौरतलब",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "है",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कि",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बिपाशा",
+        "mention_spans": [
+          [
+            "i17",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i17"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i15"
+          }
+        ]
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "ही",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "यहां",
+        "mention_spans": [
+          [
+            "i18",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i18"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i16"
+          }
+        ]
+      },
+      {
+        "word": "कार्यक्रम",
+        "mention_spans": [
+          [
+            "i19",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "में",
+        "mention_spans": [
+          [
+            "i19",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "दीप",
+        "mention_spans": [
+          [
+            "i19",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्रज्जवलित",
+        "mention_spans": [
+          [
+            "i19",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "करना",
+        "mention_spans": [
+          [
+            "i19",
+            0
+          ]
+        ],
+        "head_entity_ids": [
+          "i19"
+        ],
+        "relations": []
+      },
+      {
+        "word": "था",
+        "mention_spans": [
+          [
+            "i19",
+            1
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "और",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "उसके",
+        "mention_spans": [
+          [
+            "i20",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i20"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-E",
+            "target": "i19"
+          }
+        ]
+      },
+      {
+        "word": "बाद",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पूरे",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्रोग्राम",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "शिरकत",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "करनी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "थी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 5,
+    "tokens": [
+      {
+        "word": "लेकिन",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अभिनेत्री",
+        "mention_spans": [
+          [
+            "i21",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i21"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Noun-Noun",
+            "target": "i17"
+          }
+        ]
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "इस",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कदम",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "से",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "वहां",
+        "mention_spans": [
+          [
+            "i22",
+            1
+          ],
+          [
+            "i23",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i23",
+          "i22"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i18"
+          }
+        ]
+      },
+      {
+        "word": "रंग",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "भंग",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पड़",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गया",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 6,
+    "tokens": [
+      {
+        "word": "हालांकि",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "वरिष्ठ",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अधिकारियों",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "ने",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पूरे",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "मामले",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "जांच",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बात",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कही",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "है",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "लेकिन",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बंगाली",
+        "mention_spans": [
+          [
+            "i24",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बाला",
+        "mention_spans": [
+          [
+            "i24",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i24"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Noun-Noun",
+            "target": "i21"
+          }
+        ]
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "साथ",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बदतमीजी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "चलते",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अभी",
+        "mention_spans": [
+          [
+            "i25",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i25"
+        ],
+        "relations": []
+      },
+      {
+        "word": "गार्ड्स",
+        "mention_spans": [
+          [
+            "i26",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i26"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i14"
+          }
+        ]
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "खिलाफ",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कोई",
+        "mention_spans": [
+          [
+            "i27",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i27"
+        ],
+        "relations": []
+      },
+      {
+        "word": "कार्रवाई",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "नहीं",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गई",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 7,
+    "tokens": [
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i28",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "महोत्सव",
+        "mention_spans": [
+          [
+            "i28",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i28"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i23"
+          }
+        ]
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्रकाश",
+        "mention_spans": [
+          [
+            "i29",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "झा",
+        "mention_spans": [
+          [
+            "i29",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i29"
+        ],
+        "relations": []
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "नई",
+        "mention_spans": [
+          [
+            "i30",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i30",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i30"
+        ],
+        "relations": []
+      },
+      {
+        "word": "अपहरण",
+        "mention_spans": [
+          [
+            "i31",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i31"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-NounComplement",
+            "target": "i30"
+          }
+        ]
+      },
+      {
+        "word": "का",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "भी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्रीमियर",
+        "mention_spans": [
+          [
+            "i32",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i32"
+        ],
+        "relations": []
+      },
+      {
+        "word": "होना",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "है",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 8,
+    "tokens": [
+      {
+        "word": "गंगाजल",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बाद",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "झा",
+        "mention_spans": [
+          [
+            "i33",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i33"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i29"
+          }
+        ]
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "यह",
+        "mention_spans": [
+          [
+            "i34",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i34"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i31"
+          }
+        ]
+      },
+      {
+        "word": "किसी",
+        "mention_spans": [
+          [
+            "i35",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i35"
+        ],
+        "relations": []
+      },
+      {
+        "word": "अलग",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "विषय",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बनी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "दूसरी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "है",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 9,
+    "tokens": [
+      {
+        "word": "इस",
+        "mention_spans": [
+          [
+            "i36",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i36",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i36"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Noun-Noun",
+            "target": "i34"
+          }
+        ]
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बिपाशा",
+        "mention_spans": [
+          [
+            "i37",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बसु",
+        "mention_spans": [
+          [
+            "i37",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i37"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Noun-Noun",
+            "target": "i24"
+          }
+        ]
+      },
+      {
+        "word": "ने",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "भी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बतौर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अभिनेत्री",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "काम",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "किया",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "है",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 10,
+    "tokens": [
+      {
+        "word": "इस",
+        "mention_spans": [
+          [
+            "i38",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i38",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i38"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i36"
+          }
+        ]
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "उनके",
+        "mention_spans": [
+          [
+            "i39",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i39"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i37"
+          }
+        ]
+      },
+      {
+        "word": "हीरो",
+        "mention_spans": [
+          [
+            "i40",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i40"
+        ],
+        "relations": []
+      },
+      {
+        "word": "अजय",
+        "mention_spans": [
+          [
+            "i41",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "देवगन",
+        "mention_spans": [
+          [
+            "i41",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i41"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-NounComplement",
+            "target": "i40"
+          }
+        ]
+      },
+      {
+        "word": "बने",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "है",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 11,
+    "tokens": [
+      {
+        "word": "चूंकि",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अपहरण",
+        "mention_spans": [
+          [
+            "i42",
+            1
+          ],
+          [
+            "i43",
+            0
+          ]
+        ],
+        "head_entity_ids": [
+          "i42"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Noun-Noun",
+            "target": "i38"
+          }
+        ]
+      },
+      {
+        "word": "का",
+        "mention_spans": [
+          [
+            "i43",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्रीमियर",
+        "mention_spans": [
+          [
+            "i44",
+            1
+          ],
+          [
+            "i43",
+            0
+          ]
+        ],
+        "head_entity_ids": [
+          "i44"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i32"
+          }
+        ]
+      },
+      {
+        "word": "यहां",
+        "mention_spans": [
+          [
+            "i45",
+            1
+          ],
+          [
+            "i43",
+            0
+          ]
+        ],
+        "head_entity_ids": [
+          "i45"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i28"
+          }
+        ]
+      },
+      {
+        "word": "पर",
+        "mention_spans": [
+          [
+            "i43",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "होना",
+        "mention_spans": [
+          [
+            "i43",
+            0
+          ]
+        ],
+        "head_entity_ids": [
+          "i43"
+        ],
+        "relations": []
+      },
+      {
+        "word": "था",
+        "mention_spans": [
+          [
+            "i43",
+            1
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "इसीलिए",
+        "mention_spans": [
+          [
+            "i46",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i46"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i43"
+          }
+        ]
+      },
+      {
+        "word": "बिपाशा",
+        "mention_spans": [
+          [
+            "i47",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i47"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i39"
+          }
+        ]
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "उपस्थिति",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "इस",
+        "mention_spans": [
+          [
+            "i48",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "समारोह",
+        "mention_spans": [
+          [
+            "i48",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i48"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-InferedRelation",
+            "target": "i45"
+          }
+        ]
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "काफी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अहम",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "थी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 12,
+    "tokens": [
+      {
+        "word": "इसके",
+        "mention_spans": [
+          [
+            "i49",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i49"
+        ],
+        "relations": []
+      },
+      {
+        "word": "पूर्व",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पणज़ी",
+        "mention_spans": [
+          [
+            "i50",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i50"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i2"
+          }
+        ]
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "रंगारंग",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कार्निवाल",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "३६वें",
+        "mention_spans": [
+          [
+            "i51",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अंतर्राष्ट्रीय",
+        "mention_spans": [
+          [
+            "i51",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i51",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "समारोह",
+        "mention_spans": [
+          [
+            "i51",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i51"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i48"
+          }
+        ]
+      },
+      {
+        "word": "का",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "शुभारंभ",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बड़े",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "ही",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "धूमधाम",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "से",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "हुआ",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 13,
+    "tokens": [
+      {
+        "word": "महोत्सव",
+        "mention_spans": [
+          [
+            "i52",
+            1
+          ],
+          [
+            "i53",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i52",
+          "i53"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-InferedRelation",
+            "target": "i51"
+          }
+        ]
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "सुरक्षा",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "व्यवस्था",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "लेकर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्रशासन",
+        "mention_spans": [
+          [
+            "i54",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i54"
+        ],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "द्वारा",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कड़े",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "इंतजाम",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "किए",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "गये",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "हैं",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "और",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "वह",
+        "mention_spans": [
+          [
+            "i55",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i55"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i54"
+          }
+        ]
+      },
+      {
+        "word": "किसी",
+        "mention_spans": [
+          [
+            "i56",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i56"
+        ],
+        "relations": []
+      },
+      {
+        "word": "भी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "तरह",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "की",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कोताही",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "नहीं",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बरतना",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "चाहता",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 14,
+    "tokens": [
+      {
+        "word": "उधर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "एक",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अन्य",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "समाचार",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अनुसार",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कार्यक्रम",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बदलाव",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "करते",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "हुए",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "देवानंद",
+        "mention_spans": [
+          [
+            "i57",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i57"
+        ],
+        "relations": []
+      },
+      {
+        "word": "ने",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अंतरराष्ट्रीय",
+        "mention_spans": [
+          [
+            "i58",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i58",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "समारोह",
+        "mention_spans": [
+          [
+            "i58",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i58"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-InferedRelation",
+            "target": "i53"
+          }
+        ]
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अपनी",
+        "mention_spans": [
+          [
+            "i59",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i59"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i57"
+          }
+        ]
+      },
+      {
+        "word": "नई",
+        "mention_spans": [
+          [
+            "i60",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i60",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i60"
+        ],
+        "relations": []
+      },
+      {
+        "word": "मिस्टर",
+        "mention_spans": [
+          [
+            "i61",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्राइम",
+        "mention_spans": [
+          [
+            "i61",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "मिनिस्टर",
+        "mention_spans": [
+          [
+            "i61",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i61"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-NounComplement",
+            "target": "i60"
+          }
+        ]
+      },
+      {
+        "word": "का",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्रदर्शन",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "नहीं",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "करने",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "का",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फैसला",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "किया",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "है",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 15,
+    "tokens": [
+      {
+        "word": "दरअसल",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "वह",
+        "mention_spans": [
+          [
+            "i62",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i62"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i59"
+          }
+        ]
+      },
+      {
+        "word": "इस",
+        "mention_spans": [
+          [
+            "i63",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i63",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i63"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Noun-Noun",
+            "target": "i61"
+          }
+        ]
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "सबसे",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "पहले",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "प्रधानमंत्री",
+        "mention_spans": [
+          [
+            "i64",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i64"
+        ],
+        "relations": []
+      },
+      {
+        "word": "मनमोहन",
+        "mention_spans": [
+          [
+            "i65",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "सिंह",
+        "mention_spans": [
+          [
+            "i65",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i65"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-NounComplement",
+            "target": "i64"
+          }
+        ]
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "दिखाना",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "चाहते",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "हैं",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 16,
+    "tokens": [
+      {
+        "word": "देवानंद",
+        "mention_spans": [
+          [
+            "i66",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i66"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i62"
+          }
+        ]
+      },
+      {
+        "word": "ने",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बृहस्पतिवार",
+        "mention_spans": [
+          [
+            "i67",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i67"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i1"
+          }
+        ]
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "एक",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "टीवी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "चैनल",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "से",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बातचीत",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "के",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "दौरान",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बताया",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कि",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "वह",
+        "mention_spans": [
+          [
+            "i68",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i68"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i66"
+          }
+        ]
+      },
+      {
+        "word": "कई",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कारणों",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "से",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अपनी",
+        "mention_spans": [
+          [
+            "i69",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i69"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i68"
+          }
+        ]
+      },
+      {
+        "word": "नई",
+        "mention_spans": [
+          [
+            "i70",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i70",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i70"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i63"
+          }
+        ]
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "इस",
+        "mention_spans": [
+          [
+            "i71",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "समारोह",
+        "mention_spans": [
+          [
+            "i71",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i71"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i58"
+          }
+        ]
+      },
+      {
+        "word": "में",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "शामिल",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "नहीं",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "करना",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "चाहते",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 17,
+    "tokens": [
+      {
+        "word": "वह",
+        "mention_spans": [
+          [
+            "i72",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i72"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i69"
+          }
+        ]
+      },
+      {
+        "word": "पहले",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "अपने",
+        "mention_spans": [
+          [
+            "i73",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i73"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i72"
+          }
+        ]
+      },
+      {
+        "word": "प्रधानमंत्री",
+        "mention_spans": [
+          [
+            "i74",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i74"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Noun-Noun",
+            "target": "i65"
+          }
+        ]
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "यह",
+        "mention_spans": [
+          [
+            "i75",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i75",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i75"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i70"
+          }
+        ]
+      },
+      {
+        "word": "दिखाना",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "चाहते",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "हैं",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  },
+  {
+    "sentence_id": 18,
+    "tokens": [
+      {
+        "word": "देवानंद",
+        "mention_spans": [
+          [
+            "i76",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i76"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i73"
+          }
+        ]
+      },
+      {
+        "word": "ने",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "बताया",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "कि",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "उनकी",
+        "mention_spans": [
+          [
+            "i77",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i77"
+        ],
+        "relations": [
+          {
+            "type": "Anaphora-C",
+            "target": "i76"
+          }
+        ]
+      },
+      {
+        "word": "यह",
+        "mention_spans": [
+          [
+            "i78",
+            0
+          ]
+        ],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "फिल्म",
+        "mention_spans": [
+          [
+            "i78",
+            1
+          ]
+        ],
+        "head_entity_ids": [
+          "i78"
+        ],
+        "relations": [
+          {
+            "type": "Coreference-Identity",
+            "target": "i75"
+          }
+        ]
+      },
+      {
+        "word": "३०",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "नवंबर",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "को",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "रिलीज",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "होगी",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      },
+      {
+        "word": "।",
+        "mention_spans": [],
+        "head_entity_ids": [],
+        "relations": []
+      }
+    ]
+  }
+]
